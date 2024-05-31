@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581298171992",
+    "project_id": "turt-95cab",
+    "storage_bucket": "turt-95cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581298171992:android:a3d72529f0edfedeb7da2d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFo_je4kXcaF3_SIUZQskoii0CfwtYDUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
